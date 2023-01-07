@@ -6,7 +6,7 @@ Project Background- The purpose of this poroject was to use the different databa
 
 ## Problem Statement 
 
-League ball games such as NFL, TBL are popular in the United States, but ball game lovers might be having a hard time tracking down timely information about each type of games and planning their visits. Additionally, when people are switching between different apps, lots of time is consumed and they also face surge pricing when they’re looking for place to stay. Hence, the lack of information and inefficacy might prevent people from eventually going to a ball game or it might make the game trip more expensive and inefficiently organized
+League ball games such as NFL, TBL are popular in the United States, but ball game lovers might be having a hard time tracking down timely information about each type of games and planning their visits. Additionally, when people are switching between different apps, lots of time is consumed and they also face surge pricing when they’re looking for place to stay. Hence, the lack of information and inefficiency might prevent people from eventually going to a ball game or it might make the game trip more expensive and inefficiently organized
 
 ## Proposed Solution 
 
