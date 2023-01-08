@@ -25,13 +25,13 @@ The database will contain information on league ball games happening in differen
 
 Assumptions:  
 
-There are 6 stadiums in New York 
-
-The games mentioned in the databases are representative of all the games in NY state 
-
-Some of the tickets are sold out 
-
-The names of transportation providers and restaurants are representative of all the brands present in the area 
+1. There are 6 stadiums in New York 
+2. The games and games details mentioned in the databases are representative of all the games in NY state 
+3. Some of the tickets are sold out 
+4. The names of hotels and restaurants are representative of all the brands present in the area 
+5. One game is played in one stadium in one day
+6. Only two teams play in one game
+7. The names of transportation providers and restaurants are representative of all the brands present in the area 
 
 ## Database designing process
 
