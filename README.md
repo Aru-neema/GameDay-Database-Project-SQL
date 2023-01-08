@@ -1,7 +1,7 @@
 # Database-Project
-NOTE- This is an academic griup project as part of course IST 659- Database admin Concepts and Management, Syracuse University
+NOTE- This is an academic group project as part of course IST 659- Database admin Concepts and Management, Syracuse University
 
-Project Background- The purpose of this poroject was to use the different database designing, creation and implementation concepts taught in IST 659. The objective was to create a working database on any business topic of our choice. 
+Project Background- The purpose of this project was to use the different database designing, creation and implementation concepts taught in IST 659. The objective was to create a working database on any business topic of our choice. 
 
 
 ## Problem Statement 
