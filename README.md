@@ -1,5 +1,10 @@
 # Database-Project
-NOTE- This is an academic group project as part of course IST 659- Database admin Concepts and Management, Syracuse University
+NOTE- This is an academic group project as part of course IST 659- Database admin Concepts and Management, Syracuse University. Also, this document assumes that you know how to operate and connect databases to Azure datastudio. If not, it's still helpful to understand how to write SQL code for creating a database
+
+After reading the documentation, the audience (beginners, students, aspirational data analyst) will know how to do the following tasks:
+1) Understand how to make a workflow for building a relational database
+2) How to write SQL codes to create tables and populate it with data
+3) Get some examples of how to incorporate data logic operations like procedure, views and triggers
 
 Project Background- The purpose of this project was to use the different database designing, creation and implementation concepts taught in IST 659. The objective was to create a working database on any business topic of our choice. 
 
